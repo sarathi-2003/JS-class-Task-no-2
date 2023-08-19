@@ -1,0 +1,25 @@
+1. Write a blog on the difference between Document object and windows object
+
+     Document object:
+             
+                 * The document object is always represents a webpages. And its loaded in the brower.
+
+                 * we have accessing the document object, and we can access the element in the HTML page.
+
+                 * The doucument object help the add any dynamic content to our webpage.
+
+                 * The syntax is document.object_name;
+            
+                 * The document object is used for some HTML Elements like cookie, defaultview, domain, design mode, doctype, URL, forms, full screen element, active element, body, title, lastmodified, implementation, readystate that's above all things is used for return the some activities.
+
+
+     Windows object:
+           
+                 * The windows object is represents the display the content and frame in the webpage.
+    
+                 * Always the windows object used for appears on the screen to display the content
+      
+                 * The syntax window.object_name;
+     
+                 * The windows object is used for return the some activites like close, console, defaultstatus, controllers, customelements, crypto, deviepixelRatio, frames[], lenth, fullscreen, innerhight, innerwidth, location there are many more objcts used in  windows objects.  
+
